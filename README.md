@@ -34,14 +34,6 @@ I love working with **Machine Learning, Python, web Development and AI projects*
 
 ---
 
-## 📊 GitHub Stats  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rajprajapati01&show_icons=true&theme=radical)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajprajapati01&layout=compact&theme=radical)  
-
----
-
 ## 📂 Featured Projects  
 - 🔹 -  
 - 🔹 [Rental Hub](#) – Property renting platform with chat & booking system  
