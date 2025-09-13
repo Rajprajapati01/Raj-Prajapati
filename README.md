@@ -21,7 +21,7 @@ I love working with **Machine Learning, Python, web Development and AI projects*
 ## 📌 Current Focus  
 - 📊 Learning **Machine Learning & Data Science** step by step  
 - 🌐 Working on **-** (-)  
-- 🤖 Building my own **AI Voice Assistant – VoiceMate**  
+- 🤖 Building my own **-**  
 
 ---
 
