@@ -1,4 +1,4 @@
-# Raj-Prajapati
+
 About Me
 
 # 👋 Hi, I'm Raj Prajapati  
@@ -35,9 +35,9 @@ I love working with **Machine Learning, Python, web Development and AI projects*
 ---
 
 ## 📫 Connect With Me  
-- 💼 LinkedIn: [Your LinkedIn Link](#)   
-- 📧 Email: [Your Email](#)  
+- 💼 LinkedIn: [-](#)   
+- 📧 Email: [-](#)  
 
 ---
 
-⭐️ *“Keep learning, keep building, and keep growing.”*  
+ 
