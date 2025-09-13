@@ -1,7 +1,7 @@
 
 About Me
 
-# 👋 Hi, I'm Raj Prajapati  
+# 👋 Hello, I'm Raj Prajapati  
 
 🎓 **BCA / Data Science Student | ML & AI Enthusiast | Web Developer**  
 
