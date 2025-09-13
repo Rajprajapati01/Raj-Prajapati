@@ -3,7 +3,8 @@ About Me
 
 # 👋 Hello, I'm Raj Prajapati  
 
-🎓 **BCA / Data Science Student | ML & AI Enthusiast | Web Developer**  
+🎓 **BCA Graduate from Veer Narmad South Gujarat University** 
+🎓 **-**
 
 🚀 Passionate about building intelligent systems, solving real-world problems, and exploring innovative tech solutions.  
 I love working with **Machine Learning, Python, web Development and AI projects**.  
@@ -22,6 +23,16 @@ I love working with **Machine Learning, Python, web Development and AI projects*
 - 📊 Learning **Machine Learning & Data Science** step by step  
 - 🌐 Working on **-** (-)  
 - 🤖 Building my own **-**  
+
+---
+
+## 📊 GitHub Stats  
+
+![Raj's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)  
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical)  
 
 ---
 
